@@ -1,0 +1,43 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+experiences:
+  - company:
+      name: Computer Science Department, Allegheny College
+      location: Meadville, PA
+      overview: Allegheny College is a liberal arts institution that has a Computer Science department.
+    positions:
+    - designation: Technical Leader
+      start: Sep 2021
+      responsibilities:
+      - Assist 10-15 students weekly in successfully completing class activities and assignments
+      - Hold weekly office hours to support students’ academic progress in introductory and intermediate computer science courses
+      - Attend meetings to receive performance feedback and provide updates
+  - company:
+      name: Acutec Precision Aerospace, Inc.
+      url: https://acutecprecision.com
+      location: Meadville, PA
+      overview: Acutec is a company that manufactures parts for rotors, engines, and hydraulics systems.
+    positions:
+    - designation: Software Development Intern
+      start: Sep 2021
+      responsibilities:
+      - Create library that manages work instructions for aerospace products.
+      - Implement automated testing for the library
+      - Communicate with supervisors to gather requirements
+  - company:
+      name: NetApp
+      url: https://www.netapp.com
+      location: Pittsburgh, PA
+      overview: NetApp is a company that specializes in cloud data storage.
+    positions:
+    - designation: Capstone Project Intern
+      start: Jan 2021
+      end: May 2021
+      responsibilities:
+      - Implemented a data search and query features in a React JS application
+      - Enhanced a user interface to make it more user-friendly
+      - Worked in an Agile environment through weekly scrum meetings

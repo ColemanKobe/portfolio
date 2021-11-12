@@ -1,0 +1,60 @@
+baseURL: https://hugo-toha.github.io
+
+languageCode: en-us
+title: "Kobe's Site"
+theme: "toha"
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Enable global emoji support
+enableEmoji: true
+
+# Site parameters
+params:
+  # GitHub repo URL and branch of your site
+  gitRepo: https://github.com/ColemanKobe/hugo-starter.git
+  gitBranch: main
+
+  # specify whether you want to write some blog posts or not
+  enableBlogPost: false
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  background: images/background.jpg
+
+  logo:
+    main: images/main-logo.png
+    inverted: images/inverted-logo.png
+    favicon: images/favicon.png
+
+  newsletter:
+    enable: false
+
+  section:
+    name: About # Title of section (default: "")
+    id: about # url id/slug of section *Required*
+    enable: true # Boolean to determine if this section is enabled (default: false)
+    weight: 1 # Order to display section in (default: alphabetical followed by weight)
+    showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+    template: sections/about.html # allows you to point to a specific template.

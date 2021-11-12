@@ -1,0 +1,17 @@
+name: 'Kobe Coleman'
+image: 'images/ProKobe.png'
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "kbclmn474@gmail.com"
+  phone: "724-766-5075"
+
+# a summary of what you do
+summary:
+  - Software Developer
+  - Musician
+  - Chess Player
+  - Hockey Fanatic

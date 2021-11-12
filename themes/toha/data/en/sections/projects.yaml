@@ -1,0 +1,13 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+projects:
+  - name: GatorMiner
+    role: Contributor
+    timeline: "February 2021 - May 2021"
+    repo: https://github.com/Allegheny-Ethical-CS/GatorMiner
+    summary: Automated text analysis of student responses with a Streamlit application
+    tags: ["python", "streamlit"]

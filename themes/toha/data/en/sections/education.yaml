@@ -1,0 +1,44 @@
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+degrees:
+  - name: Bachelor of Science in Computer Science
+    icon: fa-laptop
+    timeframe: 2019-2023 [Expected]
+    institution:
+      name: Allegheny College
+      url: https://allegheny.edu
+    grade: #(optional)
+      scale: CGPA
+      achieved: 3.9
+      outOf: 4
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: true
+      courses:
+        - name: Computational Expression
+          achieved: 4
+          outOf: 4
+        - name: Data Abstraction
+          achieved: 4
+          outOf: 4
+        - name: Discrete Structures
+          achieved: 4
+          outOf: 4
+        - name: Programming Languages
+          achieved: 4
+          outOf: 4
+        - name: Data Analytics
+          achieved: 4
+          outOf: 4
+        - name: Algorithm Analysis
+          achieved: 4
+          outOf: 4
+    extracurricularActivities:
+      - Chess Club
+      - Wind Symphony
+      - Civic Symphony
