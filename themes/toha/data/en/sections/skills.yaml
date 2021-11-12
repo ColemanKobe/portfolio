@@ -12,14 +12,14 @@ section:
 
 skills:
 - name: Git
-  logo: "images/sections/skills/git.png"
+  logo: images/sections/skills/git.png
   summary: "Substantially experienced with Git development, following conventional GitHub flow guidelines when contributing to open source projects in GitHub."
 - name: Java
-  logo: "images/sections/skills/java.jpg"
+  logo: images/sections/skills/java.jpg
   summary: "Have worked with Java for multiple years, using JFrame, JGraph, and Graphics classes."
 - name: Python
-  logo: "images/sections/skills/python.png"
+  logo: images/sections/skills/python.png
   summary: "Have worked with Python for multiple years, contributing to Streamlit applications and pandas dataframes as well as using the typer library."
 - name: C#
-  logo: "images/sections/skills/csharp.jpg"
+  logo: images/sections/skills/csharp.jpg
   summary: "It's a relatively new language for me, but I'm gaining proficiency in it, using LINQ to manage databases."
