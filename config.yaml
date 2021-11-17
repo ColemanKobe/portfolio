@@ -32,7 +32,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL and branch of your site
-  gitRepo: https://github.com/ColemanKobe/hugo-starter.git
+  gitRepo: https://github.com/ColemanKobe/hugo-starter
   gitBranch: main
 
   # specify whether you want to write some blog posts or not
