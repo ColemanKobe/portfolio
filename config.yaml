@@ -41,7 +41,7 @@ params:
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
 
-  background: images/background.jpg
+  background: /images/background.jpg
 
   logo:
     main: images/main-logo.png
