@@ -32,6 +32,9 @@ other = "Email"
 [phone]
 other = "Phone"
 
+[background_image]
+other = "Background credit:"
+
 [newsletter_text]
 other = "Stay up to date with email notification"
 
