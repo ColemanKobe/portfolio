@@ -11,3 +11,17 @@ projects:
     repo: https://github.com/Allegheny-Ethical-CS/GatorMiner
     summary: Automated text analysis of student responses with a Streamlit application
     tags: ["python", "streamlit"]
+
+  - name: TensorFlow Car Labeler
+    role: Creator
+    timeline: "December 2021 - Present"
+    repo: https://github.com/ColemanKobe/tensorflow-car-labeler
+    summary: Android application that labels cars by model, using a phone camera
+    tags: ["tensorflow", "android", "ml-kit"]
+
+  - name: Data Converter and Calculator GUI
+    role: Contributor
+    timeline: "December 2021 - December 2021"
+    repo: https://github.com/ColemanKobe/data-converter-and-calculator-gui
+    summary: GUI that converts data and executes binary calculation
+    tags: ["gtk", "binary-operations", ]
