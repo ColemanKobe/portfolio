@@ -24,10 +24,11 @@ experiences:
     positions:
     - designation: Software Development Intern
       start: Sep 2021
+      end: Dec 2021
       responsibilities:
-      - Create library that manages work instructions for aerospace products.
-      - Implement automated testing for the library
-      - Communicate with supervisors to gather requirements
+      - Created a library that manages work instructions for aerospace products.
+      - Implemented automated testing for the library
+      - Communicated with supervisors to gather requirements
   - company:
       name: NetApp
       url: https://www.netapp.com
