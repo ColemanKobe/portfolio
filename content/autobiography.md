@@ -4,8 +4,9 @@ date: 2022-03-08T14:04:29-05:00
 description: Introducing myself
 menu:
     sidebar:
-        name: Starter Posts
+        name: Autobiography
         identifier: autobiography
+        parent: starter-posts
         weight: 500
 draft: false
 ---

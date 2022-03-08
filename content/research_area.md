@@ -4,8 +4,9 @@ date: 2022-03-08T14:51:17-05:00
 description: Introduction to my primary research area
 menu:
     sidebar:
-        name: Starter Posts
+        name: Research Area
         identifier: research-area
+        parent: starter-posts
         weight: 500
 draft: false
 ---
