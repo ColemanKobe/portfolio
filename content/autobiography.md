@@ -4,7 +4,7 @@ date: 2022-03-08T14:04:29-05:00
 description: Introducing myself
 menu:
     sidebar:
-        name: Autobiography
+        name: Starter Posts
         identifier: autobiography
         weight: 500
 draft: false
