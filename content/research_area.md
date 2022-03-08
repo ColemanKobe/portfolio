@@ -7,7 +7,7 @@ menu:
         name: Starter Posts
         identifier: research-area
         weight: 500
-draft: true
+draft: false
 ---
 
 My primary research area is artificial intelligence. There are many fields in artificial intelligence, such as 
