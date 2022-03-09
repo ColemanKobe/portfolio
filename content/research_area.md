@@ -7,7 +7,7 @@ menu:
         name: Research Area
         identifier: research-area
         parent: starter-posts
-        weight: 500
+        weight: 250
 draft: false
 ---
 

@@ -7,7 +7,7 @@ menu:
         name: Autobiography
         identifier: autobiography
         parent: starter-posts
-        weight: 500
+        weight: 250
 draft: false
 ---
 
