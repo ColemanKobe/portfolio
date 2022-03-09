@@ -14,7 +14,7 @@ draft: false
 My primary research area is artificial intelligence. There are many fields in artificial intelligence, such as 
 computer vision, neural networks, machine learning, etc. Therefore, I decided to narrow it down to neural networks,
 since I find them fascinating. If appropriately configured, they can be incredibly effective and accurate at
-certain tasks, such as predictive analysis, object detection, and classification. A neural network is a network of nodes
+certain tasks, such as predictive analytics, object detection, and classification. A neural network is a network of nodes
 that together take input and provide output in some fashion. It's supposed to imitate the human brain. 
 For now, I'm going for predictive analytics, but I might switch to another application of neural networks if I don't have 
 a concrete idea of what to predict. I find predictive analytics to be interesting to me since the applications of
