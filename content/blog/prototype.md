@@ -7,7 +7,7 @@ menu:
         name: Prototype
         identifier: prototype
         parent: research
-        weight 250
+        weight: 250
 draft: false
 ---
 
