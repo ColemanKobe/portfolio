@@ -22,4 +22,4 @@ skills:
   summary: "Have worked with Python for multiple years, contributing to Streamlit applications and pandas dataframes as well as using the typer library."
 - name: C#
   logo: images/sections/skills/csharp.jpg
-  summary: "It's a relatively new language for me, but I'm gaining proficiency in it, using LINQ to manage databases."
+  summary: "It's a relatively new language for me, but I gained proficiency in it, using LINQ to manage databases."

@@ -6,6 +6,9 @@ section:
   showOnNavbar: true
 
 achievements:
+  - title: Computer Science Outstanding Junior Major Prize
+    image: images/sections/achievements/background.jpg
+    summary: Awarded for exceptional academic achievement, performance in the seminar, and contribution to the general life of the department.
   - title: Trustee Scholarship
     image: images/sections/achievements/background.jpg
     summary: Awarded to students who have balanced academic excellence with other distinctive activities while in high school

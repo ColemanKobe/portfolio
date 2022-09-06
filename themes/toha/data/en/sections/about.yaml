@@ -12,7 +12,7 @@ company:
   name: Acutec Precision Aerospace Inc.
   url: "https://acutecprecision.com"
 # a summary about you
-summary: 'I am a software developer who aspires to learn more about the whole Artificial Intelligence field and actually apply that understanding to contribute to open source projects that deal with AI. I interned with NetApp last year, adding certain UI features to the Swagger API. Through this experience, I learned how to most appropriately contribute to open source projects, which was to use the Git model in a way that adhered to contribution guidelines. I also added to GatorMiner, which is an open source project that performs a textual analysis of markdown files, including sentimental analysis. In addition, I had a surface-level look at how chess engines worked. In the future, when I learn more about AI, then I will be able to more effectively contribute to projects that deal with AI.'
+summary: 'I am a software developer who aspires to learn more about the whole Artificial Intelligence field and apply that understanding to contribute to open source projects that deal with AI. I interned with NetApp a few years ago, adding certain UI features to the Swagger API. Through this experience, I learned how to most appropriately contribute to open source projects, which was to use the Git model in a way that adhered to contribution guidelines. I also added to GatorMiner, which is an open source project that performs a textual analysis of markdown files, including sentimental analysis. In the future, when I learn more about AI, then I will be able to more effectively contribute to projects that deal with AI.'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
