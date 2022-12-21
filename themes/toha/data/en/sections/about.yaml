@@ -6,13 +6,13 @@ section:
   showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
   template: sections/about.html # allows you to point to a specific template.
 # your designation
-designation: Software Development Intern
+designation: Technical Leader
 # your company information
 company:
-  name: Acutec Precision Aerospace Inc.
-  url: "https://acutecprecision.com"
+  name: Department of Computer Science in Allegheny College
+  url: "https://cs.allegheny.edu"
 # a summary about you
-summary: 'I am a software developer who aspires to learn more about the whole Artificial Intelligence field and apply that understanding to contribute to open source projects that deal with AI. I interned with NetApp a few years ago, adding certain UI features to the Swagger API. Through this experience, I learned how to most appropriately contribute to open source projects, which was to use the Git model in a way that adhered to contribution guidelines. I also added to GatorMiner, which is an open source project that performs a textual analysis of markdown files, including sentimental analysis. In the future, when I learn more about AI, then I will be able to more effectively contribute to projects that deal with AI.'
+summary: 'I am a software developer who aspires to learn more about the whole Artificial Intelligence field and apply that understanding to contribute to open source projects that deal with AI. I interned with NetApp a few years ago, adding UI features to the Swagger API. Through this experience, I learned how to most appropriately contribute to open source projects, which was to use the Git model in a way that adhered to contribution guidelines. I also added to GatorMiner, which is an open source project that performs a textual analysis of markdown files, including sentimental analysis. In the future, when I learn more about AI, then I will be able to more effectively contribute to projects that deal with AI.'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:

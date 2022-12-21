@@ -38,8 +38,12 @@ degrees:
         - name: Algorithm Analysis
           achieved: 4
           outOf: 4
+        - name: Operating Systems
+          achieved: 4
+          outOf: 4
     extracurricularActivities:
       - Chess Club
+      - Pittsburgh Youth Symphony Orchestra
       - Wind Symphony
       - Civic Symphony
       - Jazz Ensemble

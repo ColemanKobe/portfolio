@@ -13,13 +13,18 @@ section:
 skills:
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Substantially experienced with Git development, following conventional GitHub flow guidelines when contributing to open source projects in GitHub."
+  summary: "Substantially experienced with Git development, following conventional GitHub flow guidelines when contributing to open source projects."
 - name: Java
   logo: /images/sections/skills/java.jpg
   summary: "Have worked with Java for multiple years, using JFrame, JGraph, and Graphics classes."
 - name: Python
   logo: images/sections/skills/python.png
-  summary: "Have worked with Python for multiple years, contributing to Streamlit applications and pandas dataframes as well as using the typer library."
+  summary: "Have worked with Python for multiple years, contributing to Streamlit applications and pandas dataframes 
+  as well as using multiple libraries for the command line interface, data visualization, and machine learning."
 - name: C#
   logo: images/sections/skills/csharp.jpg
-  summary: "It's a relatively new language for me, but I gained proficiency in it, using LINQ to manage databases."
+  summary: "It's a new language for me, but I gained proficiency in it, using LINQ to manage mock databases."
+- name: R
+  logo: images/sections/skills/r.png
+  summary: "I've also worked with R for some time, wrangling and creating visualizations of data through plots and 
+  bar graphs."
