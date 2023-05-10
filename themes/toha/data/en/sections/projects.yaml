@@ -14,7 +14,7 @@ projects:
 
   - name: TensorFlow Car Labeler
     role: Creator
-    timeline: "December 2021 - Present"
+    timeline: "December 2021 - December 2021"
     repo: https://github.com/ColemanKobe/tensorflow-car-labeler
     summary: Android application that labels cars by model, using a phone camera
     tags: ["tensorflow", "android", "ml-kit"]
