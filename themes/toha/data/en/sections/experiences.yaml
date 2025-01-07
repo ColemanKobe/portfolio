@@ -6,6 +6,16 @@ section:
   showOnNavbar: true
 experiences:
   - company:
+      name: BNY
+      location: Pittsburgh, PA
+    positions:
+    - designation: Application Developer
+      start: Aug 2023
+      responsibilities:
+      - Enhance the UI of ExtraView to best fit the philosophy of the audit process dictated by upper management.
+      - Construct and customize reports of ExtraView records that are presented to the audit committee.
+      - Modify audit processes in the RCM library in Teammate+ so they are accurately reflected in the internal audit portal.
+  - company:
       name: Computer Science Department, Allegheny College
       location: Meadville, PA
     positions:

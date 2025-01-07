@@ -24,4 +24,11 @@ projects:
     timeline: "December 2021 - December 2021"
     repo: https://github.com/ColemanKobe/data-converter-and-calculator-gui
     summary: GUI that converts data and executes binary calculation
-    tags: ["gtk", "binary-operations", ]
+    tags: ["gtk", "binary-operations", "GUI"]
+
+  - name: LSTM-OP
+    role: Creator
+    timeline: "September 2022 - April 2023"
+    repo: https://github.com/ReadyResearchers/LSTM-Optimization
+    summary: Optimization of a Long Short-Term Memory network through the Optuna library
+    tags: ["LSTM", "RNN", "Optuna"]

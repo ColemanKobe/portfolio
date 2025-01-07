@@ -6,22 +6,22 @@ section:
   showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
   template: sections/about.html # allows you to point to a specific template.
 # your designation
-designation: Technical Leader
+designation: Front-End Developer
 # your company information
 company:
-  name: Department of Computer Science in Allegheny College
-  url: "https://cs.allegheny.edu"
+  name: BNY
+  url: "https://www.bny.com/corporate/global/en.html"
 # a summary about you
 summary: 'I am a software developer who aspires to learn more about the whole Artificial Intelligence field and apply
  that understanding to contribute to open source projects that deal with AI. I interned with NetApp a few years ago, 
  adding UI features to the Swagger API. Through this experience, I learned how to most appropriately contribute to 
  open source projects, which was to use the Git model in a way that adhered to contribution guidelines. I also added 
- to GatorMiner, which is an open source project that performs a textual analysis of markdown files, including 
+ to GatorMiner, which is an open source project that performs a textual analysis of markdown files, including the use of
  sentimental analysis. For my undergraduate senior comprehensive project, I focused on hyperparameter optimization of
   neural networks that deal with time series datasets. I won the Zingale Big Idea Competition, a business 
   pitch competition, by developing a tool called GrandSlam AI, which currently takes a video of people playing 
-  tennis and performs object detection of the player, the court, and the ball. Future development will include 
-  advanced statistics, such as the average speed of the ball, spin frequency, area frequency, etc.'
+  tennis and performs object detection of the player, the court, and the ball. After graduating, I was offered a contract
+  position at BNY as an application developer. Shortly after, I was offered a full-time position, and I accepted.'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
