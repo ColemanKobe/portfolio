@@ -235,7 +235,7 @@ var projectCards;
 
     function singleColumnRow(gallery, entries, i) {
       let entry1 = document.createElement("div");
-      entry1.classList.add("col-12", "m-0", "p-0");
+      entry1.classList.add("achievement-row", "m-0", "p-0");
       entry1.appendChild(entries[i].cloneNode(true));
       entry1.children[0].classList.add("img-type-1");
       gallery.appendChild(entry1);
@@ -254,41 +254,8 @@ var projectCards;
       let i = 0;
       let rowNumber = 1;
       while (i < len) {
-        if (isLaptop) {
-          if (i + 4 <= len) {
-            if (rowNumber % 2) {
-              fourColumRow(gallery, entries, i);
-            } else {
-              fourColumnReversedRow(gallery, entries, i);
-            }
-            i += 4;
-
-          } else if (i + 3 <= len) {
-            if (rowNumber % 2) {
-              threeColumnRow(gallery, entries, i);
-            } else {
-              threeColumnReversedRow(gallery, entries, i);
-            }
-            i += 3;
-          } else if (i + 2 <= len) {
-            twoColumnRow(gallery, entries, i);
-            i += 2;
-          } else {
-            singleColumnRow(gallery, entries, i);
-            i++;
-          }
-        } else if (isTablet) {
-          if (i + 2 <= len) {
-            twoColumnRow(gallery, entries, i);
-            i += 2;
-          } else {
-            singleColumnRow(gallery, entries, i);
-            i++;
-          }
-        } else {
-          singleColumnRow(gallery, entries, i);
-          i++;
-        }
+        singleColumnRow(gallery, entries, i);
+        i++;
         rowNumber++;
       }
 

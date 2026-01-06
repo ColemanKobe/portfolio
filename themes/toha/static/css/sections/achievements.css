@@ -122,6 +122,12 @@
   height: 75vh !important;
 }
 
+/* Make each achievement occupy a full-width row wrapper */
+.achievements-section #gallery .achievement-row {
+  width: 100%;
+  display: block;
+}
+
 /* ============= Device specific fixes ======= */
 
 /* Large screens such as TV */
