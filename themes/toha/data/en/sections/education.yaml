@@ -8,7 +8,7 @@ section:
 degrees:
   - name: Bachelor of Science in Computer Science
     icon: fa-laptop
-    timeframe: 2019-2023 [Expected]
+    timeframe: 2019-2023
     institution:
       name: Allegheny College
       url: https://allegheny.edu
@@ -47,3 +47,4 @@ degrees:
       - Wind Symphony
       - Civic Symphony
       - Jazz Ensemble
+      

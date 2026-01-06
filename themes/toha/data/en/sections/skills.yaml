@@ -19,12 +19,10 @@ skills:
   summary: "Have worked with Java for multiple years, using JFrame, JGraph, and Graphics classes."
 - name: Python
   logo: images/sections/skills/python.png
-  summary: "Have worked with Python for multiple years, contributing to Streamlit applications and pandas dataframes 
-  as well as using multiple libraries for the command line interface, data visualization, and machine learning."
+  summary: "Have worked with Python for multiple years, contributing to Streamlit applications and pandas dataframes as well as using multiple libraries for the command line interface, data visualization, and machine learning."
 - name: C#
   logo: images/sections/skills/csharp.jpg
-  summary: "It's a new language for me, but I gained proficiency in it, using LINQ to manage mock databases."
+  summary: "Have worked with C# for multiple years, gaining proficiency from creating basic CRUD apps with the Blazor web framework."
 - name: R
   logo: images/sections/skills/r.png
-  summary: "I've also worked with R for some time, wrangling and creating visualizations of data through plots and 
-  bar graphs."
+  summary: "I've also worked with R for some time, wrangling and creating visualizations of data through plots and bar graphs."
